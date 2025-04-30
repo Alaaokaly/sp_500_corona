@@ -1,0 +1,324 @@
+2025-04-30 00:28:38,331 - INFO - ======================================================================
+2025-04-30 00:28:38,331 - INFO - TRAINING CONFIGURATION
+2025-04-30 00:28:38,331 - INFO - Source vocabulary size: 1302
+2025-04-30 00:28:38,331 - INFO - Target vocabulary size: 1526
+2025-04-30 00:28:38,331 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 00:28:38,331 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 00:28:38,331 - INFO - Batch size: 128
+2025-04-30 00:28:38,331 - INFO - Learning rate: 0.005
+2025-04-30 00:28:38,331 - INFO - ======================================================================
+2025-04-30 00:29:35,940 - INFO - ======================================================================
+2025-04-30 00:29:35,940 - INFO - TRAINING CONFIGURATION
+2025-04-30 00:29:35,940 - INFO - Source vocabulary size: 1302
+2025-04-30 00:29:35,940 - INFO - Target vocabulary size: 1526
+2025-04-30 00:29:35,940 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 00:29:35,940 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 00:29:35,940 - INFO - Batch size: 128
+2025-04-30 00:29:35,940 - INFO - Learning rate: 0.005
+2025-04-30 00:29:35,940 - INFO - ======================================================================
+2025-04-30 00:34:58,895 - INFO - ======================================================================
+2025-04-30 00:34:58,895 - INFO - TRAINING CONFIGURATION
+2025-04-30 00:34:58,895 - INFO - Source vocabulary size: 1302
+2025-04-30 00:34:58,895 - INFO - Target vocabulary size: 1526
+2025-04-30 00:34:58,895 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 00:34:58,896 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 00:34:58,896 - INFO - Batch size: 128
+2025-04-30 00:34:58,896 - INFO - Learning rate: 0.005
+2025-04-30 00:34:58,896 - INFO - ======================================================================
+2025-04-30 01:03:02,827 - INFO - ======================================================================
+2025-04-30 01:03:02,828 - INFO - TRAINING CONFIGURATION
+2025-04-30 01:03:02,828 - INFO - Source vocabulary size: 1302
+2025-04-30 01:03:02,828 - INFO - Target vocabulary size: 1526
+2025-04-30 01:03:02,828 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 01:03:02,828 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 01:03:02,828 - INFO - Batch size: 128
+2025-04-30 01:03:02,828 - INFO - Learning rate: 0.005
+2025-04-30 01:03:02,828 - INFO - ======================================================================
+2025-04-30 01:03:19,096 - INFO - ======================================================================
+2025-04-30 01:03:19,096 - INFO - TRAINING CONFIGURATION
+2025-04-30 01:03:19,096 - INFO - Source vocabulary size: 1302
+2025-04-30 01:03:19,096 - INFO - Target vocabulary size: 1526
+2025-04-30 01:03:19,096 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 01:03:19,096 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 01:03:19,096 - INFO - Batch size: 128
+2025-04-30 01:03:19,096 - INFO - Learning rate: 0.005
+2025-04-30 01:03:19,096 - INFO - ======================================================================
+2025-04-30 01:05:03,068 - INFO - ======================================================================
+2025-04-30 01:05:03,068 - INFO - TRAINING CONFIGURATION
+2025-04-30 01:05:03,068 - INFO - Source vocabulary size: 1302
+2025-04-30 01:05:03,069 - INFO - Target vocabulary size: 1526
+2025-04-30 01:05:03,069 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 01:05:03,069 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 01:05:03,069 - INFO - Batch size: 128
+2025-04-30 01:05:03,069 - INFO - Learning rate: 0.005
+2025-04-30 01:05:03,069 - INFO - ======================================================================
+2025-04-30 01:09:55,915 - INFO - ======================================================================
+2025-04-30 01:09:55,915 - INFO - TRAINING CONFIGURATION
+2025-04-30 01:09:55,915 - INFO - Source vocabulary size: 1302
+2025-04-30 01:09:55,915 - INFO - Target vocabulary size: 1526
+2025-04-30 01:09:55,915 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 01:09:55,915 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 01:09:55,915 - INFO - Batch size: 128
+2025-04-30 01:09:55,915 - INFO - Learning rate: 0.005
+2025-04-30 01:09:55,915 - INFO - ======================================================================
+2025-04-30 01:10:01,164 - INFO - Starting model training...
+2025-04-30 01:10:01,164 - INFO - ==================================================
+2025-04-30 01:10:01,164 - INFO - Starting training for 30 epochs
+2025-04-30 01:10:50,683 - INFO - ======================================================================
+2025-04-30 01:10:50,683 - INFO - TRAINING CONFIGURATION
+2025-04-30 01:10:50,683 - INFO - Source vocabulary size: 1302
+2025-04-30 01:10:50,683 - INFO - Target vocabulary size: 1526
+2025-04-30 01:10:50,683 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 01:10:50,683 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 01:10:50,683 - INFO - Batch size: 128
+2025-04-30 01:10:50,683 - INFO - Learning rate: 0.005
+2025-04-30 01:10:50,683 - INFO - ======================================================================
+2025-04-30 01:10:51,368 - INFO - Starting model training...
+2025-04-30 01:10:51,368 - INFO - ==================================================
+2025-04-30 01:10:51,369 - INFO - Starting training for 30 epochs
+2025-04-30 01:11:48,245 - INFO - ======================================================================
+2025-04-30 01:11:48,245 - INFO - TRAINING CONFIGURATION
+2025-04-30 01:11:48,245 - INFO - Source vocabulary size: 1302
+2025-04-30 01:11:48,245 - INFO - Target vocabulary size: 1526
+2025-04-30 01:11:48,245 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 01:11:48,245 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 01:11:48,245 - INFO - Batch size: 128
+2025-04-30 01:11:48,245 - INFO - Learning rate: 0.005
+2025-04-30 01:11:48,245 - INFO - ======================================================================
+2025-04-30 01:11:48,852 - INFO - Starting model training...
+2025-04-30 01:11:48,852 - INFO - ==================================================
+2025-04-30 01:11:48,852 - INFO - Starting training for 30 epochs
+2025-04-30 01:11:48,852 - INFO - Training on device: cpu
+2025-04-30 01:11:48,852 - INFO - Training set size: 20000 examples
+2025-04-30 01:11:48,852 - INFO - Validation set size: 7001 examples
+2025-04-30 01:11:48,852 - INFO - ==================================================
+2025-04-30 01:11:48,852 - INFO - Epoch 1/30 started
+2025-04-30 01:12:22,339 - INFO - ======================================================================
+2025-04-30 01:12:22,339 - INFO - TRAINING CONFIGURATION
+2025-04-30 01:12:22,339 - INFO - Source vocabulary size: 1302
+2025-04-30 01:12:22,339 - INFO - Target vocabulary size: 1526
+2025-04-30 01:12:22,339 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 01:12:22,339 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 01:12:22,339 - INFO - Batch size: 128
+2025-04-30 01:12:22,339 - INFO - Learning rate: 0.005
+2025-04-30 01:12:22,339 - INFO - ======================================================================
+2025-04-30 01:12:22,947 - INFO - Starting model training...
+2025-04-30 01:12:22,947 - INFO - ==================================================
+2025-04-30 01:12:22,947 - INFO - Starting training for 30 epochs
+2025-04-30 01:12:22,947 - INFO - Training on device: cpu
+2025-04-30 01:12:22,947 - INFO - Training set size: 20000 examples
+2025-04-30 01:12:22,947 - INFO - Validation set size: 7001 examples
+2025-04-30 01:12:22,947 - INFO - ==================================================
+2025-04-30 01:12:22,947 - INFO - Epoch 1/30 started
+2025-04-30 01:12:22,947 - INFO - Starting epoch 1/30
+2025-04-30 01:14:20,562 - INFO - ======================================================================
+2025-04-30 01:14:20,563 - INFO - TRAINING CONFIGURATION
+2025-04-30 01:14:20,563 - INFO - Source vocabulary size: 1302
+2025-04-30 01:14:20,563 - INFO - Target vocabulary size: 1526
+2025-04-30 01:14:20,563 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 01:14:20,563 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 01:14:20,563 - INFO - Batch size: 128
+2025-04-30 01:14:20,563 - INFO - Learning rate: 0.005
+2025-04-30 01:14:20,563 - INFO - ======================================================================
+2025-04-30 01:14:45,283 - INFO - ======================================================================
+2025-04-30 01:14:45,283 - INFO - TRAINING CONFIGURATION
+2025-04-30 01:14:45,283 - INFO - Source vocabulary size: 1302
+2025-04-30 01:14:45,283 - INFO - Target vocabulary size: 1526
+2025-04-30 01:14:45,283 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 01:14:45,283 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 01:14:45,283 - INFO - Batch size: 128
+2025-04-30 01:14:45,283 - INFO - Learning rate: 0.005
+2025-04-30 01:14:45,283 - INFO - ======================================================================
+2025-04-30 01:29:05,977 - INFO - ======================================================================
+2025-04-30 01:29:05,977 - INFO - TRAINING CONFIGURATION
+2025-04-30 01:29:05,977 - INFO - Source vocabulary size: 1302
+2025-04-30 01:29:05,977 - INFO - Target vocabulary size: 1526
+2025-04-30 01:29:05,977 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 01:29:05,977 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 01:29:05,977 - INFO - Batch size: 128
+2025-04-30 01:29:05,977 - INFO - Learning rate: 0.005
+2025-04-30 01:29:05,977 - INFO - ======================================================================
+2025-04-30 01:31:20,478 - INFO - ======================================================================
+2025-04-30 01:31:20,494 - INFO - TRAINING CONFIGURATION
+2025-04-30 01:31:20,494 - INFO - Source vocabulary size: 1302
+2025-04-30 01:31:20,494 - INFO - Target vocabulary size: 1526
+2025-04-30 01:31:20,494 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 01:31:20,494 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 01:31:20,494 - INFO - Batch size: 128
+2025-04-30 01:31:20,494 - INFO - Learning rate: 0.005
+2025-04-30 01:31:20,494 - INFO - ======================================================================
+2025-04-30 01:32:33,311 - INFO - ======================================================================
+2025-04-30 01:32:33,311 - INFO - TRAINING CONFIGURATION
+2025-04-30 01:32:33,311 - INFO - Source vocabulary size: 1302
+2025-04-30 01:32:33,311 - INFO - Target vocabulary size: 1526
+2025-04-30 01:32:33,312 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 01:32:33,312 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 01:32:33,312 - INFO - Batch size: 128
+2025-04-30 01:32:33,312 - INFO - Learning rate: 0.005
+2025-04-30 01:32:33,312 - INFO - ======================================================================
+2025-04-30 01:35:17,012 - INFO - ======================================================================
+2025-04-30 01:35:17,012 - INFO - TRAINING CONFIGURATION
+2025-04-30 01:35:17,012 - INFO - Source vocabulary size: 1302
+2025-04-30 01:35:17,012 - INFO - Target vocabulary size: 1526
+2025-04-30 01:35:17,012 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 01:35:17,012 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 01:35:17,012 - INFO - Batch size: 128
+2025-04-30 01:35:17,012 - INFO - Learning rate: 0.005
+2025-04-30 01:35:17,012 - INFO - ======================================================================
+2025-04-30 01:35:38,841 - INFO - ======================================================================
+2025-04-30 01:35:38,842 - INFO - TRAINING CONFIGURATION
+2025-04-30 01:35:38,842 - INFO - Source vocabulary size: 1302
+2025-04-30 01:35:38,842 - INFO - Target vocabulary size: 1526
+2025-04-30 01:35:38,842 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 01:35:38,842 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 01:35:38,842 - INFO - Batch size: 128
+2025-04-30 01:35:38,842 - INFO - Learning rate: 0.005
+2025-04-30 01:35:38,842 - INFO - ======================================================================
+2025-04-30 01:35:39,724 - INFO - Using 1 GPU for training
+2025-04-30 01:57:30,565 - INFO - ======================================================================
+2025-04-30 01:57:30,565 - INFO - TRAINING CONFIGURATION
+2025-04-30 01:57:30,565 - INFO - Source vocabulary size: 1302
+2025-04-30 01:57:30,565 - INFO - Target vocabulary size: 1526
+2025-04-30 01:57:30,565 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 01:57:30,565 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 01:57:30,565 - INFO - Batch size: 128
+2025-04-30 01:57:30,565 - INFO - Learning rate: 0.005
+2025-04-30 01:57:30,565 - INFO - ======================================================================
+2025-04-30 01:57:30,565 - INFO - Starting model training...
+2025-04-30 03:49:36,688 - INFO - ======================================================================
+2025-04-30 03:49:36,695 - INFO - TRAINING CONFIGURATION
+2025-04-30 03:49:36,695 - INFO - Source vocabulary size: 1302
+2025-04-30 03:49:36,695 - INFO - Target vocabulary size: 1526
+2025-04-30 03:49:36,695 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 03:49:36,695 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 03:49:36,696 - INFO - Batch size: 128
+2025-04-30 03:49:36,696 - INFO - Learning rate: 0.005
+2025-04-30 03:49:36,696 - INFO - ======================================================================
+2025-04-30 03:49:36,696 - INFO - Starting model training...
+2025-04-30 03:49:36,696 - INFO - ==================================================
+2025-04-30 03:49:36,696 - INFO - Starting training for 30 epochs
+2025-04-30 03:49:36,696 - INFO - Training on device: cpu
+2025-04-30 03:49:36,696 - INFO - Training set size: 20000 examples
+2025-04-30 03:49:36,696 - INFO - ==================================================
+2025-04-30 03:49:36,696 - INFO - Epoch 1/30 started
+2025-04-30 03:49:36,696 - INFO - Starting epoch 1/30
+2025-04-30 03:50:25,091 - INFO - ======================================================================
+2025-04-30 03:50:25,091 - INFO - TRAINING CONFIGURATION
+2025-04-30 03:50:25,091 - INFO - Source vocabulary size: 1302
+2025-04-30 03:50:25,091 - INFO - Target vocabulary size: 1526
+2025-04-30 03:50:25,091 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 03:50:25,091 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 03:50:25,091 - INFO - Batch size: 128
+2025-04-30 03:50:25,091 - INFO - Learning rate: 0.005
+2025-04-30 03:50:25,091 - INFO - ======================================================================
+2025-04-30 03:50:25,091 - INFO - Starting model training...
+2025-04-30 03:50:25,091 - INFO - ==================================================
+2025-04-30 03:50:25,091 - INFO - Starting training for 30 epochs
+2025-04-30 03:50:25,091 - INFO - Training on device: cpu
+2025-04-30 03:50:25,091 - INFO - Training set size: 20000 examples
+2025-04-30 03:50:25,091 - INFO - ==================================================
+2025-04-30 03:50:25,091 - INFO - Epoch 1/30 started
+2025-04-30 03:50:25,091 - INFO - Starting epoch 1/30
+2025-04-30 04:09:28,974 - INFO - ======================================================================
+2025-04-30 04:09:28,975 - INFO - TRAINING CONFIGURATION
+2025-04-30 04:09:28,975 - INFO - Source vocabulary size: 1302
+2025-04-30 04:09:28,975 - INFO - Target vocabulary size: 1526
+2025-04-30 04:09:28,975 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 04:09:28,975 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 04:09:28,975 - INFO - Batch size: 128
+2025-04-30 04:09:28,975 - INFO - Learning rate: 0.005
+2025-04-30 04:09:28,975 - INFO - ======================================================================
+2025-04-30 04:09:28,975 - INFO - Starting model training...
+2025-04-30 04:09:28,975 - INFO - ==================================================
+2025-04-30 04:09:28,975 - INFO - Starting training for 30 epochs
+2025-04-30 04:09:28,975 - INFO - Training on device: cpu
+2025-04-30 04:09:28,975 - INFO - Training set size: 20000 examples
+2025-04-30 04:09:28,975 - INFO - ==================================================
+2025-04-30 04:09:28,975 - INFO - Epoch 1/30 started
+2025-04-30 04:09:28,975 - INFO - Starting epoch 1/30
+2025-04-30 04:11:39,050 - INFO - ======================================================================
+2025-04-30 04:11:39,310 - INFO - TRAINING CONFIGURATION
+2025-04-30 04:11:39,310 - INFO - Source vocabulary size: 1302
+2025-04-30 04:11:39,310 - INFO - Target vocabulary size: 1526
+2025-04-30 04:11:39,310 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 04:11:39,310 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 04:11:39,310 - INFO - Batch size: 128
+2025-04-30 04:11:39,310 - INFO - Learning rate: 0.005
+2025-04-30 04:11:39,310 - INFO - ======================================================================
+2025-04-30 04:11:47,416 - INFO - Starting model training...
+2025-04-30 04:11:47,416 - INFO - ==================================================
+2025-04-30 04:11:47,416 - INFO - Starting training for 30 epochs
+2025-04-30 04:11:47,416 - INFO - Training on device: cpu
+2025-04-30 04:11:47,416 - INFO - Training set size: 20000 examples
+2025-04-30 04:11:47,416 - INFO - ==================================================
+2025-04-30 04:11:47,416 - INFO - Epoch 1/30 started
+2025-04-30 04:11:47,416 - INFO - Starting epoch 1/30
+2025-04-30 04:18:02,819 - INFO - ======================================================================
+2025-04-30 04:18:02,819 - INFO - TRAINING CONFIGURATION
+2025-04-30 04:18:02,819 - INFO - Source vocabulary size: 1302
+2025-04-30 04:18:02,819 - INFO - Target vocabulary size: 1526
+2025-04-30 04:18:02,819 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 04:18:02,819 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 04:18:02,819 - INFO - Batch size: 128
+2025-04-30 04:18:02,819 - INFO - Learning rate: 0.005
+2025-04-30 04:18:02,819 - INFO - ======================================================================
+2025-04-30 04:18:04,073 - INFO - Starting model training...
+2025-04-30 04:18:04,073 - INFO - ==================================================
+2025-04-30 04:18:04,073 - INFO - Starting training for 30 epochs
+2025-04-30 04:18:04,073 - INFO - Training on device: cpu
+2025-04-30 04:18:04,073 - INFO - Training set size: 20000 examples
+2025-04-30 04:18:04,073 - INFO - ==================================================
+2025-04-30 04:18:04,073 - INFO - Epoch 1/30 started
+2025-04-30 04:18:04,073 - INFO - Starting epoch 1/30
+2025-04-30 04:18:04,587 - INFO - Epoch 1: 0/157 batches processed. Current loss: 7.3114
+2025-04-30 04:18:20,512 - INFO - Epoch 1: 100/157 batches processed. Current loss: 7.3216
+2025-04-30 04:18:37,181 - INFO - ======================================================================
+2025-04-30 04:18:37,181 - INFO - TRAINING CONFIGURATION
+2025-04-30 04:18:37,181 - INFO - Source vocabulary size: 1302
+2025-04-30 04:18:37,181 - INFO - Target vocabulary size: 1526
+2025-04-30 04:18:37,181 - INFO - Embedding size: 256, Hidden size: 256
+2025-04-30 04:18:37,182 - INFO - Layers: 2, Dropout: 0.2
+2025-04-30 04:18:37,182 - INFO - Batch size: 128
+2025-04-30 04:18:37,182 - INFO - Learning rate: 0.005
+2025-04-30 04:18:37,182 - INFO - ======================================================================
+2025-04-30 04:18:38,324 - WARNING - GPUs requested but CUDA is not available. Falling back to CPU.
+2025-04-30 04:18:38,324 - INFO - Starting model training...
+2025-04-30 04:18:38,324 - INFO - ==================================================
+2025-04-30 04:18:38,324 - INFO - Starting training for 30 epochs
+2025-04-30 04:18:38,324 - INFO - Training on device: cpu
+2025-04-30 04:18:38,324 - INFO - Training set size: 20000 examples
+2025-04-30 04:18:38,324 - INFO - ==================================================
+2025-04-30 04:18:38,324 - INFO - Epoch 1/30 started
+2025-04-30 04:18:38,324 - INFO - Starting epoch 1/30
+2025-04-30 04:18:38,743 - INFO - Epoch 1: 0/157 batches processed. Current loss: 7.3254
+2025-04-30 04:18:53,292 - INFO - Epoch 1: 100/157 batches processed. Current loss: 7.3232
+2025-04-30 04:19:01,756 - INFO - Epoch 1 completed. Average training loss: 7.3200
+2025-04-30 04:19:01,760 - INFO - Epoch 1/30 completed in 23.4s - Train Loss: 7.3200
+2025-04-30 04:19:01,760 - INFO - Epoch 2/30 started
+2025-04-30 04:19:01,760 - INFO - Starting epoch 2/30
+2025-04-30 04:19:01,914 - INFO - Epoch 2: 0/157 batches processed. Current loss: 7.3244
+2025-04-30 04:19:17,182 - INFO - Epoch 2: 100/157 batches processed. Current loss: 7.3222
+2025-04-30 04:19:28,346 - INFO - Epoch 2 completed. Average training loss: 7.3198
+2025-04-30 04:19:28,348 - INFO - Epoch 2/30 completed in 26.6s - Train Loss: 7.3198
+2025-04-30 04:19:28,348 - INFO - Epoch 3/30 started
+2025-04-30 04:19:28,348 - INFO - Starting epoch 3/30
+2025-04-30 04:19:28,573 - INFO - Epoch 3: 0/157 batches processed. Current loss: 7.3177
+2025-04-30 04:19:47,408 - INFO - Epoch 3: 100/157 batches processed. Current loss: 7.3143
+2025-04-30 04:20:01,063 - INFO - Epoch 3 completed. Average training loss: 7.3197
+2025-04-30 04:20:01,064 - INFO - Epoch 3/30 completed in 32.7s - Train Loss: 7.3197
+2025-04-30 04:20:01,064 - INFO - Epoch 4/30 started
+2025-04-30 04:20:01,065 - INFO - Starting epoch 4/30
+2025-04-30 04:20:01,344 - INFO - Epoch 4: 0/157 batches processed. Current loss: 7.3230
+2025-04-30 04:20:18,326 - INFO - Epoch 4: 100/157 batches processed. Current loss: 7.3323
+2025-04-30 04:20:27,775 - INFO - Epoch 4 completed. Average training loss: 7.3205
+2025-04-30 04:20:27,787 - INFO - Epoch 4/30 completed in 26.7s - Train Loss: 7.3205
+2025-04-30 04:20:27,787 - INFO - Epoch 5/30 started
+2025-04-30 04:20:27,788 - INFO - Starting epoch 5/30
+2025-04-30 04:20:27,956 - INFO - Epoch 5: 0/157 batches processed. Current loss: 7.3149
+2025-04-30 04:20:44,912 - INFO - Epoch 5: 100/157 batches processed. Current loss: 7.3172
+2025-04-30 04:20:53,204 - INFO - Epoch 5 completed. Average training loss: 7.3203
+2025-04-30 04:20:53,205 - INFO - Epoch 5/30 completed in 25.4s - Train Loss: 7.3203
+2025-04-30 04:20:53,205 - INFO - Epoch 6/30 started
+2025-04-30 04:20:53,205 - INFO - Starting epoch 6/30
+2025-04-30 04:20:53,475 - INFO - Epoch 6: 0/157 batches processed. Current loss: 7.3305
+2025-04-30 04:21:09,246 - INFO - Epoch 6: 100/157 batches processed. Current loss: 7.3128

@@ -77,11 +77,11 @@ class MTDeuEng(nn.Module):
 
     def get_data(self):
         
-        root = "deu.txt"
+        root = "data_processing/deu.txt"
         with open (root, 'r', encoding='utf-8') as f:
              lines = f.read()
              lines = re.sub(r'CC-BY\s*(.*)'," ", lines).strip()
-        modified_file = 'parallel.txt'
+        modified_file = 'data_processing/deu.txt'
         with open(modified_file, 'w') as f :
             f.write(lines)
         return lines
@@ -116,9 +116,3 @@ class MTDeuEng(nn.Module):
     def train_dataloader(self):
         return self.train_loader
 
-data = MTDeuEng(batch_size=3)
-src, tgt, src_valid_len, label = next(iter(data.get_dataloader(train=True)))
-print('source:', src.type(torch.int32))
-print('decoder input:', tgt.type(torch.int32))
-print('source len excluding pad:', src_valid_len.type(torch.int32))
-print('label:', label.type(torch.int32))
